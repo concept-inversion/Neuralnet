@@ -2,6 +2,7 @@
 
 Required 
 python = 2.7
+
 numpy
 
 It is a single layer Simple perception neural network which shows how we train neural network .
