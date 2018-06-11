@@ -1,9 +1,9 @@
 # Neuralnet
 
 Required 
-python = 2.7
+1. python = 3.6
 
-numpy
+2. numpy
 
 It is a single layer Simple perception neural network which shows how we train neural network .
 It contains input for network in the program stored as a list. Then neural network is trained. This script displays how threshold value of 
